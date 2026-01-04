@@ -1,5 +1,6 @@
 let todoItemsContainer = document.getElementById("todoItemsContainer");
 let addTodoButton = document.getElementById("addTodoButton");
+//Arra
 
 let todoList = [
   {
