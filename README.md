@@ -1,2 +1,2 @@
-# ToDo
+# ToDos
 Todos Application
